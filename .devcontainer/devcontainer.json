@@ -4,7 +4,7 @@
 		"dockerfile": "Dockerfile",
 		"args": {
 			"VARIANT": "17",	//Can change to another of Java
-			"INSTALL_MAVEN": "false",
+			"INSTALL_MAVEN": "truee",
 			"INSTALL_GRADLE": "false",
 			"NODE_VERSION": "lts/*"
 		}
