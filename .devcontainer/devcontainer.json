@@ -14,12 +14,11 @@
 	"customizations": {
 		"vscode": {
 			"settings": { 
-				"java.home": "/docker-java-home"
+				"java.jdt.ls.java.home": "/docker-java-home"
 			},
 			"extensions": [
 				"vscjava.vscode-java-pack",
 				"GitHub.github-vscode-theme",
-				"qwtel.sqlite-viewer",
 				"sohibe.java-generate-setters-getters"
 			]
 		}
