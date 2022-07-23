@@ -18,7 +18,9 @@
 			},
 			"extensions": [
 				"vscjava.vscode-java-pack",
-				"GitHub.github-vscode-theme"
+				"GitHub.github-vscode-theme",
+				"qwtel.sqlite-viewer",
+				"sohibe.java-generate-setters-getters"
 			]
 		}
 	},
