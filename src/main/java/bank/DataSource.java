@@ -12,7 +12,6 @@ public class DataSource {
 
     try{
       connection = DriverManager.getConnection(db_file);
-      System.out.println("we're connected");
     } catch(SQLException e){
       e.printStackTrace();
     }
