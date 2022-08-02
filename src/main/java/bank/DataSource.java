@@ -50,9 +50,9 @@ public class DataSource {
     String sql = "select * from accounts where id = ?";
     Account account = null;
     try (
-      Connection connection = connect();
-      PreparedStatement statement = connection.prepareStatement(sql)) {
-        
+        Connection connection = connect();
+        PreparedStatement statement = connection.prepareStatement(sql)) {
+
       statement.setInt(1, accountId);
 
       try (ResultSet resultSet = statement.executeQuery()) {
