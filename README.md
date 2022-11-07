@@ -1,9 +1,11 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Hands-On Introduction: Java 
+This is the repository for the LinkedIn Learning course Hands-On Introduction: Java . The full course is available from [LinkedIn Learning][lil-course-url].
 
-![course-name-alt-text][lil-thumbnail-url] 
+![Hands-On Introduction: Java ][lil-thumbnail-url]
 
-_See the readme file in the main branch for updated instructions and information._
+Java is one of the most popular open-source programming languages that’s currently available on the market. It’s used widely in different industries all over the world, where it’s become something of a must-have for developers. Are you ready to get your skills up to speed? Or are you at risk of falling behind? Join instructor Angie Jones for a hands-on introduction to basic coding in Java. Learn how to develop an online banking system with Java by testing out your new skills in the examples and exercises. Find out what it takes to build up your confidence to interact with object models, decision structures, and external databases. Angie guides you through the best practices for designing and implementing a fully formed piece of software that you can add to your portfolio. Why wait to push your Java skills to the next level when you can keep learning on your own today?<br><br>The best way to learn a language is to use it in practice. That’s why this course is integrated with GitHub Codespaces, an instant cloud developer environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time—all while using a tool that you’ll likely encounter in the workplace. Check out the [Using GitHub Codespaces with this course][gcs-video-url] video to learn how to get started.
+
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -22,15 +24,12 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+### Instructor
 
+Angie Jones
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/angie-jones).
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
-
+[lil-course-url]: https://www.linkedin.com/learning/hands-on-introduction-java
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQF6nAhBEhw54Q/learning-public-crop_675_1200/0/1666989653554?e=1667952000&v=beta&t=06I01NiibuFmUoDLf79BVSnxijisw1fJzVGiMWU64l0
+[gcs-video-url]: https://www.linkedin.com/learning/hands-on-introduction-java/using-github-codespaces-with-this-course
