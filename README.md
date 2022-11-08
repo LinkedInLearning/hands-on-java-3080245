@@ -1,5 +1,5 @@
 # Hands-On Introduction: Java 
-This is the repository for the LinkedIn Learning course Hands-On Introduction: Java . The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course Hands-On Introduction: Java. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Hands-On Introduction: Java ][lil-thumbnail-url]
 
