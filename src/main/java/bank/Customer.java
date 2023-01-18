@@ -60,7 +60,7 @@ public class Customer {
   public boolean isAuthenticated() {
     return authenticated;
   }
-  
+
   public void setAuthenticated(boolean authenticated) {
     this.authenticated = authenticated;
   }
